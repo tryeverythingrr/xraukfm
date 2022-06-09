@@ -6,9 +6,9 @@
     "env": {
         "UUID": {
             "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
-            "required": true        
+            "required": false        
         }
     },
-    "repository": "https://github.com/tryeverythingrr/xraukfm.git",
+    "repository": "https://github.com/tryeverythingrr/xraukfm",
     "stack": "container"
 }
